@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenzhi (Vincent) Wang / Hoempage"
+title                    : "Wenzhi (Vincent) Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Vincent"
 description              : &description "personal description"
