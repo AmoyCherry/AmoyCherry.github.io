@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wenzhi Wang"
   avatar           : "profile.png"
-  bio              : "SDE at Wisetech Global"
+  bio              : "SDE at WiseTech Global"
   location         : "Nanjing, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "wwzcherry@gmail.com"
+  wwzcherry@gmail.com            : "wwzcherry@gmail.com"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
