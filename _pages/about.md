@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer at [Wisetech Global](https://www.wisetechglobal.com/). I received my M.S. degree in Computer Science from [Capital Normal University](https://eng.cnu.edu.cn/) in 2023, advised by [Weizhen Sun](https://iec.cnu.edu.cn/szdw/zrjs/fjs/97231.htm) and [Yong Xiang](https://www.cs.tsinghua.edu.cn/info/1127/3592.htm). I received my B.S. degree in Computer Science from [Fuzhou University](https://en.fzu.edu.cn/) in 2019. I have a strong interest in LLM related fields. I am currently looking for a remote intership in LLM related fields and want to do a Ph.D. in 2024.
+I'm a software engineer at [WiseTech Global](https://www.wisetechglobal.com/). I received my M.S. degree in Computer Science from [Capital Normal University](https://eng.cnu.edu.cn/) in 2023, advised by [Weizhen Sun](https://iec.cnu.edu.cn/szdw/zrjs/fjs/97231.htm) and [Yong Xiang](https://www.cs.tsinghua.edu.cn/info/1127/3592.htm). I received my B.S. degree in Computer Science from [Fuzhou University](https://en.fzu.edu.cn/) in 2019. I have a strong interest in ML for software engineering. I want to build up theory and powerful tools to enhance the productivity of programmers. I am currently looking for a remote internship in related fields and want to do a Ph.D. in 2024.
 
 A data-driven personal website
 ======
