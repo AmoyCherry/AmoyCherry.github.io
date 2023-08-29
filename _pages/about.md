@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a software engineer at [WiseTech Global](https://www.wisetechglobal.com/). I received my M.S. degree in Computer Science from [Capital Normal University](https://eng.cnu.edu.cn/) in 2023, worked on Operating System, and advised by [Weizhen Sun](https://iec.cnu.edu.cn/szdw/zrjs/fjs/97231.htm) and [Yong Xiang](https://www.cs.tsinghua.edu.cn/info/1127/3592.htm). I received my B.S. degree in Computer Science from [Fuzhou University](https://en.fzu.edu.cn/) in 2019. 
 
-I have a strong interest in A.I technology. I want to build up theory and powerful tools to solve real world problems, such as A.I. for science, LLM for software engineering and ML algorithm. I am currently looking for a remote internship in related fields and want to do a Ph.D. in 2024.
+I have a strong interest in A.I technology. I want to build up theory and powerful tools to solve real world problems, such as A.I. for science, LLM for software engineering and ML algorithm. I am currently looking for a remote internship in related fields and want to start a Ph.D. in 2024.
 
 Projects
 ======
