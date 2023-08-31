@@ -17,7 +17,7 @@ Projects
 
 Shared scheduler for the coroutines of Rust
 ------
-<img src='/images/overview.png' width="100%">
+<img src='/images/overview.png' width="95%">
 
 We make coroutines can be sheduled across processes. 
 - Motivation(s): 
